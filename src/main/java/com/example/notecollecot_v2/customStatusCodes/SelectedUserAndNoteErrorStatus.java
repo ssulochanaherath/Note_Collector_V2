@@ -1,4 +1,4 @@
-package lk.ijse.gdse.aad67.NoteCollector_V2.customStatusCodes;
+package com.example.notecollecot_v2.customStatusCodes;
 
 import lk.ijse.gdse.aad67.NoteCollector_V2.dto.NoteStatus;
 import lk.ijse.gdse.aad67.NoteCollector_V2.dto.UserStatus;

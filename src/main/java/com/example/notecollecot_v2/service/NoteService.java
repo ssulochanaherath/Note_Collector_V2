@@ -1,4 +1,4 @@
-package lk.ijse.gdse.aad67.NoteCollector_V2.service;
+package com.example.notecollecot_v2.service;
 
 import lk.ijse.gdse.aad67.NoteCollector_V2.dto.NoteStatus;
 import lk.ijse.gdse.aad67.NoteCollector_V2.dto.impl.NoteDTO;

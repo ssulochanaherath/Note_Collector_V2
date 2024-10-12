@@ -1,4 +1,4 @@
-package lk.ijse.gdse.aad67.NoteCollector_V2.service.impl;
+package com.example.notecollecot_v2.service.impl;
 
 import jakarta.transaction.Transactional;
 import lk.ijse.gdse.aad67.NoteCollector_V2.customStatusCodes.SelectedUserAndNoteErrorStatus;

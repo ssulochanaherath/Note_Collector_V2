@@ -1,4 +1,4 @@
-package lk.ijse.gdse.aad67.NoteCollector_V2.dao;
+package com.example.notecollecot_v2.dao;
 
 import lk.ijse.gdse.aad67.NoteCollector_V2.entity.impl.UserEntity;
 import org.springframework.data.jpa.repository.JpaRepository;

@@ -1,4 +1,4 @@
-package lk.ijse.gdse.aad67.NoteCollector_V2.controller;
+package com.example.notecollecot_v2.controller;
 import lk.ijse.gdse.aad67.NoteCollector_V2.customStatusCodes.SelectedUserAndNoteErrorStatus;
 import lk.ijse.gdse.aad67.NoteCollector_V2.dto.UserStatus;
 import lk.ijse.gdse.aad67.NoteCollector_V2.dto.impl.UserDTO;

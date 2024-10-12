@@ -1,4 +1,4 @@
-package lk.ijse.gdse.aad67.NoteCollector_V2.util;
+package com.example.notecollecot_v2.util;
 
 import java.util.Base64;
 import java.util.UUID;

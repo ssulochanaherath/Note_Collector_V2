@@ -1,4 +1,4 @@
-package lk.ijse.gdse.aad67.NoteCollector_V2.dto;
+package com.example.notecollecot_v2.dto;
 
 import java.io.Serializable;
 

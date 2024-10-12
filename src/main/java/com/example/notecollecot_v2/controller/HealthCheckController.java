@@ -1,4 +1,4 @@
-package lk.ijse.gdse.aad67.NoteCollector_V2.controller;
+package com.example.notecollecot_v2.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

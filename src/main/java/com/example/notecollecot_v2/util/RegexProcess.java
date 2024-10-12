@@ -1,4 +1,4 @@
-package lk.ijse.gdse.aad67.NoteCollector_V2.util;
+package com.example.notecollecot_v2.util;
 import java.util.regex.Pattern;
 
 public class RegexProcess {
